@@ -1,6 +1,6 @@
 Financial Social Tracker
 ========================
-This is the finance tracker app
+This is a finance tracker app
 -------------------------------
 
 This is a mock-up app for tracking stock price, with connecting various users portfolio
@@ -15,7 +15,7 @@ This is a mock-up app for tracking stock price, with connecting various users po
 
 * This project is for practicing prototype proposal, so TDD was not implemented for fast       development
 
-* Multiple gems are used in this project
+* Multiple gems are used in this project for fast development
   1. Devise
   2. Bootstrap
   3. Stock_quote
