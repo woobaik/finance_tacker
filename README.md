@@ -3,7 +3,7 @@ Financial Social Tracker
 This is a finance tracker app
 -------------------------------
 
-This is a mock-up app for tracking stock price, with connecting various users portfolio
+This is a mock-up app for tracking stock price, with connecting various user's portfolio
 ---------------------------------------------------------------------------------------
 ***
 
