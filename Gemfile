@@ -5,6 +5,12 @@ ruby '2.5.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
+# Devise is a flexible authentication solution for Rails based on Warden. Read more https://github.com/plataformatec/devise
+gem 'devise'
+# Seehttps://github.com/twbs/bootstrap-rubygem#a-ruby-on-rails
+gem 'twitter-bootstrap-rails'
+gem 'jquery-rails'
+gem 'devise-bootstrap-views'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
