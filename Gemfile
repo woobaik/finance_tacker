@@ -11,8 +11,11 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
+#Real-time, stock data and historical pricing. Data provided for free by IEX. Read more https://github.com/tyrauber/stock_quote
+gem "stock_quote", '~> 2.0.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
